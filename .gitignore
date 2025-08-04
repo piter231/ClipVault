@@ -1,2 +1,4 @@
 .venv/
 clipvault.db
+clipvault_data/
+memory.log
