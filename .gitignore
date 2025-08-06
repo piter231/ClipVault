@@ -2,3 +2,6 @@
 clipvault.db
 clipvault_data/
 memory.log
+build/
+dist/
+main.spec
